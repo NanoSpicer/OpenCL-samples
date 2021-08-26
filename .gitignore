@@ -1,0 +1,6 @@
+.sln
+.suo
+
+**/[Dd]ebug
+**/[Rr]elease
+**/.vs
